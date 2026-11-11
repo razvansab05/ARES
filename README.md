@@ -54,8 +54,8 @@ The project is split into two main components:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/razvansab05/ARES
-cd ares
+git clone https://github.com/razvansab05/ARES.git
+cd ARES
 ```
 
 ---
